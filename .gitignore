@@ -16,3 +16,17 @@ Thumbs.db
 .vscode/*
 
 .env
+
+#Scrapy
+*mec-5.5.4-webscraping-project/scrapy_mini_project/quotes-humor.json
+*mec-5.5.4-webscraping-project/scrapy_mini_project/scrapy.cfg
+*mec-5.5.4-webscraping-project/scrapy_mini_project/scrapy_mini_project/__init__.py
+*mec-5.5.4-webscraping-project/scrapy_mini_project/scrapy_mini_project/__pycache__/
+*mec-5.5.4-webscraping-project/scrapy_mini_project/scrapy_mini_project/items.py
+*mec-5.5.4-webscraping-project/scrapy_mini_project/scrapy_mini_project/middlewares.py
+*mec-5.5.4-webscraping-project/scrapy_mini_project/scrapy_mini_project/pipelines.py
+*mec-5.5.4-webscraping-project/scrapy_mini_project/scrapy_mini_project/settings.py
+*mec-5.5.4-webscraping-project/scrapy_mini_project/scrapy_mini_project/spiders/__init__.py
+*mec-5.5.4-webscraping-project/scrapy_mini_project/scrapy_mini_project/spiders/__pycache__/
+*mec-5.5.4-webscraping-project/scrapy_mini_project/scrapy_mini_project/spiders/quotes_spider.py
+
