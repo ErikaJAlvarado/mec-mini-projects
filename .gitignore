@@ -17,6 +17,9 @@ Thumbs.db
 
 .env
 
+#Data
+*.gz
+
 #Scrapy
 *mec-5.5.4-webscraping-project/scrapy_mini_project/quotes-humor.json
 *mec-5.5.4-webscraping-project/scrapy_mini_project/scrapy.cfg
